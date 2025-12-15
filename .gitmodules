@@ -4,3 +4,9 @@
 [submodule "app/src/main/java/com/sarang/torang/di/feed_di"]
 	path = app/src/main/java/com/sarang/torang/di/feed_di
 	url = https://github.com/sarang628/feed_di
+[submodule "gradle/TorangToml"]
+	path = gradle/TorangToml
+	url = https://github.com/sarang628/TorangToml.git
+[submodule "app/src/main/java/com/sarang/torang/di/restaurant_review_di"]
+    path = app/src/main/java/com/sarang/torang/di/restaurant_review_di
+    url = https://github.com/sarang628//restaurant_review_di
