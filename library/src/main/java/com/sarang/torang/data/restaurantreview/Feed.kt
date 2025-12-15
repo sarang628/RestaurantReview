@@ -1,4 +1,4 @@
-package com.sarang.torang.data
+package com.sarang.torang.data.restaurantreview
 
 data class Feed(
     val reviewId: Int,

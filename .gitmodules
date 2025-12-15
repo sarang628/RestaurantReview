@@ -10,3 +10,21 @@
 [submodule "app/src/main/java/com/sarang/torang/di/restaurant_review_di"]
     path = app/src/main/java/com/sarang/torang/di/restaurant_review_di
     url = https://github.com/sarang628//restaurant_review_di
+[submodule "app/src/main/java/com/sarang/torang/di/torang_database_di"]
+	path = app/src/main/java/com/sarang/torang/di/torang_database_di
+	url = https://github.com/sarang628/torang_database_di
+[submodule "app/src/main/java/com/sarang/torang/di/torang_network_di"]
+	path = app/src/main/java/com/sarang/torang/di/torang_network_di
+	url = https://github.com/sarang628/torang_network_di.git
+[submodule "app/src/main/java/com/sarang/torang/di/pulltorefresh"]
+	path = app/src/main/java/com/sarang/torang/di/pulltorefresh
+	url = https://github.com/sarang628/pulltorefresh.git
+[submodule "app/src/main/java/com/sarang/torang/di/basefeed_di"]
+	path = app/src/main/java/com/sarang/torang/di/basefeed_di
+	url = https://github.com/sarang628/basefeed_di.git
+[submodule "app/src/main/java/com/sarang/torang/di/image"]
+	path = app/src/main/java/com/sarang/torang/di/image
+	url = https://github.com/sarang628/image.git
+[submodule "app/src/main/java/com/sarang/torang/di/pinchzoom"]
+	path = app/src/main/java/com/sarang/torang/di/pinchzoom
+	url = https://github.com/sarang628/pinchzoom.git

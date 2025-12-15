@@ -1,6 +1,6 @@
 package com.sarang.torang.usecase
 
-import com.sarang.torang.data.Feed
+import com.sarang.torang.data.restaurantreview.Feed
 
 
 interface FetchReviewsUseCase {

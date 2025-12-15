@@ -45,7 +45,7 @@ android {
         compose = true
     }
     composeOptions {
-        kotlinCompilerExtensionVersion = "1.4.6"
+        kotlinCompilerExtensionVersion = libs.versions.kotlinCompilerExtension.get()
     }
 
     compileOptions {
@@ -129,7 +129,10 @@ dependencies {
     implementation(libs.theme)
     implementation(libs.basefeed)
     implementation(libs.feed)
+    implementation(libs.torangdatabase)
+    implementation(libs.torangnetwork)
     implementation(libs.commonImageLoader)
+    implementation(libs.mui3scrolltorefresh)
     implementation(libs.composePermissionTest)
     implementation(libs.bottomdetectlazycolunm)
     implementation(libs.expandableText)
@@ -137,5 +140,10 @@ dependencies {
     implementation(libs.play.services.location)
     implementation(libs.kotlin.coroutines.play)
     implementation(libs.androidx.work.runtime.ktx)
+    implementation("androidx.media3:media3-session:1.2.1")
+    implementation("androidx.media3:media3-exoplayer:1.2.1")
+    implementation("androidx.media3:media3-ui:1.2.1")
+    implementation("androidx.media3:media3-exoplayer-hls:1.2.1")
+    implementation("io.coil-kt:coil-compose:2.6.0")
 
 }
